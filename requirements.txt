@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+pandas
+opencv-python
+numpy
+matplotlib
+scikit-image
+moviepy
+
+
